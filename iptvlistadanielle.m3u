@@ -3,7 +3,7 @@
 
 
 #EXTINF:0 tvg-logo-"https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/3/3d/TV_Globo_SP.JPG/revision/latest?cb=20140617112224"group-title-"", TV GLOBOSP
-https://cdnfe1.azureedge.net/hls1/bobosp.m3u8?wmsAuthSign=
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/118.m3u8
 
 #EXTINF:0 tvg-logo-"http://1.bp.blogspot.com/-hvTo0CdBPkA/TymeRX_EKPI/AAAAAAAAANg/G5IK8jg5W64/s1600/TV_Globo_Nordeste.jpg"group-title-"", TV GLOBONE
 https://cdnfe1.azureedge.net/hls1/bobonordeste.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxOSA5OjA2OjExIFBNJmhhc2hfdmFsdWU9TjhjZ1hJTnYyeHBQdXpveTdkWlBLUT09JnZhbGlkbWludXRlcz02MCZpZD01
@@ -57,22 +57,28 @@ https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/ch
 http://tvnanet.xyz:25461/live/palestra2021/verdao2021/263.m3u8
 
 #EXTINF:0 tvg-logo-"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Logo_MTV_Brasil_%281999-2005%29.svg/1022px-Logo_MTV_Brasil_%281999-2005%29.svg.png"group-title-"", TV MTVBR
-https://cdnfe1.azureedge.net/hls1/mtv.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxOSA5OjA4OjUxIFBNJmhhc2hfdmFsdWU9dEIyZTBsNDk4UHAxZURORGhpT25oUT09JnZhbGlkbWludXRlcz02MCZpZD01
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/167.m3u8
 
 #EXTINF:0 tvg-logo-"http://g.glbimg.com/og/gs/gsat5/f/thumbs/materia/2016/11/25/gnt-amarelo-620.jpg"group-title-"", TV GNT
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/gnt_c439c60b_8577feaab55f86c343e778b9262386a8b7670053/playlist.m3u8
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/132.m3u8
+
+#EXTINF:0 tvg-logo-"https://pbs.twimg.com/profile_images/1030817010765254656/1IjcPlkk_400x400.jpg"group-title-"", CANAL CURTA
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/40.m3u8
+
+#EXTINF:0 tvg-logo-"https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/12/globosat-vice-parceria-960x556.png"group-title-"", CANAL GLOBOSAT
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/128.m3u8
 
 #EXTINF:0 tvg-logo-"https://comedycentral.mtvnimages.com/images/cchp/CC_EditorialPage_CCProfileImg_1920x1080.jpg"group-title-"", TV COMEDYCENTRAL
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/comedycentral_17037754_caed6fd085de61315e7f186bfd21edad6235415f/playlist.m3u8
 
 #EXTINF:0 tvg-logo-"https://vignette.wikia.nocookie.net/logopedia/images/2/2f/MULTISHOW.jpg/revision/latest?cb=20121216184137"group-title-"", TV MULTISHOW
-https://cdnfe1.azureedge.net/hls1/multishow.m3u8?wmsAuthSign=
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/167.m3u8
 
 #EXTINF:0 tvg-logo-"https://3.bp.blogspot.com/-9GZJEcGclHE/W3LaujjGVlI/AAAAAAABLM4/OmvRnCPl-MUEAqVn4ImQ4ZSTxU36wB1ZQCLcBGAs/s1600/discovery-home-and-health-tv-logo-1.png"group-title-"", TV DISCOVERYHOMEANDHEALTH
-http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/discoveryhomehealth_84582c1d_6599914eeb65ce8472d3051356aeabf649ccc8f9/playlist.m3u8
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/47.m3u8
 
 #EXTINF:0 tvg-logo-"https://www.ocanal.com.br/wp-content/uploads/2019/02/fox-sports-16x9.png"group-title-"", TV FOXSPORTS
-http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/foxsports2_fc8d9e6e_44aacc54d79b9ae7874fb0e85dfa6482c02cbe3c.m3u8
+http://tvnanet.xyz:25461/live/palestra2021/verdao2021/90.m3u8
 
 #EXTINF:0 tvg-logo-"https://s.glbimg.com/es/ge/static/live/sportv/img/logos/facebook.png"group-title-"", TV SPORTTV
 http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/sportv_91dfde1d_3951c95280ca100006fbdbd3a2d9988d6ad939fb/playlist.m3u8
