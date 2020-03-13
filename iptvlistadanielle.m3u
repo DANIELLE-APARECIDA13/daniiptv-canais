@@ -6,10 +6,14 @@
 http://tvnanet.xyz:25461/live/palestra2021/verdao2021/118.m3u8
 
 #EXTINF:0 tvg-logo-"http://1.bp.blogspot.com/-hvTo0CdBPkA/TymeRX_EKPI/AAAAAAAAANg/G5IK8jg5W64/s1600/TV_Globo_Nordeste.jpg"group-title-"", TV GLOBONE
-https://cdnfe1.azureedge.net/hls1/bobonordeste.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxOSA5OjA2OjExIFBNJmhhc2hfdmFsdWU9TjhjZ1hJTnYyeHBQdXpveTdkWlBLUT09JnZhbGlkbWludXRlcz02MCZpZD01
+https://live.multicanais.com/mylive/globonordeste/video.m3u8?md5=qn5CfeGzzYH7_fszBDIx5g&expires=1584132511
 
-#EXTINF:0 tvg-logo-"https://i0.wp.com/famososnaweb.com/wp-content/uploads/2014/08/Rede-Globo-RJ-Logo.jpg?resize=1280%2C720&ssl=1"group-title-"", TV GLOBORJ
-https://cdnfe1.azureedge.net/hls1/boborj.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMTgvMjAxOSA5OjA1OjUzIFBNJmhhc2hfdmFsdWU9SFRWSnNicjVYdFRRbEF6ZEYwdEUydz09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:0 tvg-logo-"https://i0.wp.com/famososnaweb.com/wp-content/uploads/2014/08/Rede-Globo-RJ-Logo.jpg?resize=1280%2C720&ssl=1"group-title-"", TV GLOBOMG
+https://live.multicanais.com/mylive/globominas/video.m3u8?md5=NytVgc2fxFfU7naPUjDMrA&expires=1584131952
+
+#EXTINF:0 tvg-logo-"https://i0.wp.com/famososnaweb.com/wp-content/uploads/2014/08/Rede-Globo-RJ-Logo.jpg?resize=1280%2C720&ssl=1"group-title-"", TV GLOBORBS
+https://live.multicanais.com/mylive/globorbs/video.m3u8?md5=PHuTTSu0wM2qQ4CLPNMEzA&expires=1584132199
+
 
 #EXTINF:0 tvg-logo-"https://static.otvfoco.com.br/2016/11/LOGO_RECORD_TV.jpg"group-title-"", TV RECORD
 http://tvnanet.xyz:25461/live/palestra2021/verdao2021/210.m3u8
@@ -60,7 +64,7 @@ http://tvnanet.xyz:25461/live/palestra2021/verdao2021/263.m3u8
 http://tvnanet.xyz:25461/live/palestra2021/verdao2021/167.m3u8
 
 #EXTINF:0 tvg-logo-"http://g.glbimg.com/og/gs/gsat5/f/thumbs/materia/2016/11/25/gnt-amarelo-620.jpg"group-title-"", TV GNT
-http://tvnanet.xyz:25461/live/palestra2021/verdao2021/132.m3u8
+https://live.multicanais.com/live/gntsd/video.m3u8?md5=l-24RMaMw4bEuqi1r1up2Q&expires=1584134013
 
 #EXTINF:0 tvg-logo-"https://pbs.twimg.com/profile_images/1030817010765254656/1IjcPlkk_400x400.jpg"group-title-"", CANAL CURTA
 http://tvnanet.xyz:25461/live/palestra2021/verdao2021/40.m3u8
@@ -68,14 +72,17 @@ http://tvnanet.xyz:25461/live/palestra2021/verdao2021/40.m3u8
 #EXTINF:0 tvg-logo-"https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2018/12/globosat-vice-parceria-960x556.png"group-title-"", CANAL GLOBOSAT
 http://tvnanet.xyz:25461/live/palestra2021/verdao2021/128.m3u8
 
+#EXTINF:-1,CANALVIVA
+https://live.multicanais.com/mylive/vivasd/video.m3u8?md5=2jSt2m6s5Jus4Z_QgvoQUg&expires=1584134442
+
 #EXTINF:0 tvg-logo-"https://comedycentral.mtvnimages.com/images/cchp/CC_EditorialPage_CCProfileImg_1920x1080.jpg"group-title-"", TV COMEDYCENTRAL
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/comedycentral_17037754_caed6fd085de61315e7f186bfd21edad6235415f/playlist.m3u8
 
 #EXTINF:0 tvg-logo-"https://vignette.wikia.nocookie.net/logopedia/images/2/2f/MULTISHOW.jpg/revision/latest?cb=20121216184137"group-title-"", TV MULTISHOW
-http://tvnanet.xyz:25461/live/palestra2021/verdao2021/167.m3u8
+https://live.multicanais.com/mylive/multishowsd/video.m3u8?md5=ieM9VFaWkMabKgOTjxeskg&expires=1584134253
 
 #EXTINF:0 tvg-logo-"https://3.bp.blogspot.com/-9GZJEcGclHE/W3LaujjGVlI/AAAAAAABLM4/OmvRnCPl-MUEAqVn4ImQ4ZSTxU36wB1ZQCLcBGAs/s1600/discovery-home-and-health-tv-logo-1.png"group-title-"", TV DISCOVERYHOMEANDHEALTH
-http://tvnanet.xyz:25461/live/palestra2021/verdao2021/47.m3u8
+https://live.multicanais.com/mylive/homehealthsd/video.m3u8?md5=6hP_Ky_nb6LISfQZHYnbOw&expires=1584134917
 
 #EXTINF:0 tvg-logo-"https://www.ocanal.com.br/wp-content/uploads/2019/02/fox-sports-16x9.png"group-title-"", TV FOXSPORTS
 http://tvnanet.xyz:25461/live/palestra2021/verdao2021/90.m3u8
@@ -85,6 +92,9 @@ http://orcus.tvcast.xyz/hls/s:95.216.15.44:81/sportv_91dfde1d_3951c95280ca100006
 
 #EXTINF:0 tvg-logo-"https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Logo_espnbrasil.png/1200px-Logo_espnbrasil.png"group-title-"", TV ESPN
 http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/espn_6c1e671f_717ceabd8cdf97605852981f06ec5804fc8ff2af/playlist.m3u8
+
+#EXTINF:-1,CANALCOMBATE
+https://live.multicanais.com/mylive/combatesd/video.m3u8?md5=fy5N1Fcl7wbiEWqPL2HJyw&expires=1584132941
 
 #EXTINF:-1,SBT
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
